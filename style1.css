@@ -1,0 +1,82 @@
+.row after {
+    content:"";
+    clear:both;
+    display:table;
+  }
+  
+  .travel_mainDiv {
+      border: 1px solid #c7c7c7;
+      padding-left: 0px;
+      padding-right: 0px;
+      float: none
+  }
+  
+  .travel_mainDiv img {
+      width: 100%;
+  }
+  
+  .travel_mainDiv hr {
+      width: 230px;
+  }
+  
+  .travel_mainDiv h5,
+  .travel_mainDiv p {
+      margin-left: 20px;
+  }
+  
+  .movie_head {
+      font-size: 20px;
+      padding: 6px 22px;
+      border-radius: 10px;
+      margin-bottom: 15px;
+      width: 100%;
+      display: inline-block;
+  }
+  
+  .movie_head i {
+      float: right;
+  }
+  
+  .movie_text span {
+      color: #ff7700;
+  }
+  
+  
+  .modal-content {
+      margin-top: 100px;
+  }
+  
+  .img_modal {
+      display: inline-block;
+  }
+  
+  .p_modal {
+      margin-top: 10px;
+  }
+  
+  .modal-body {
+      text-align: center
+  }
+  @media only screen and (max-width: 1024px){
+.mystickyelements-position-mobile-bottom.mystickyelements-entry-effect-slide-in.entry-effect {
+    bottom: 0;
+    top: auto;
+}
+  }
+  .imgacd{
+display:flex;
+padding:20px;
+margin:20px
+
+  }
+  
+  h2.curriculum-head1{
+    border-radius: 10px;
+    background-color: #aa2528;
+
+    color: #fff;
+    padding: 7px;
+    font-size: 35px;
+    font-weight: 900;
+    font-family:"open-sans";
+  }
